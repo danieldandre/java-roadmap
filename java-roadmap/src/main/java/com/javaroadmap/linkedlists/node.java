@@ -1,4 +1,4 @@
-package com.javaroadmap.linkedlists;
+package com.javaroadmap.linkedlist;
 
 public class node {
 }
